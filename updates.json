@@ -11,6 +11,11 @@
           "version": "2.0.1",
           "update_link": "https://github.com/bennipauly/serien-tracker-updates/releases/download/v2.0.1/serien-tracker-2.0.1.xpi",
           "update_hash": "sha256:576954605b7b41066a718bf3e38c67b7d10f04737659701ecd5ad358a62e062a"
+        },
+        {
+          "version": "2.1.0",
+          "update_link": "https://github.com/bennipauly/serien-tracker-updates/releases/download/v2.1.0/serien-tracker-2.1.0.xpi",
+          "update_hash": "sha256:99b1721ca4d83ee223dde55f93685f01907f9e01460da1da841c889412febf34"
         }
       ]
     }
